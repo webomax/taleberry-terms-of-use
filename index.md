@@ -1,78 +1,120 @@
 
-# Terms of Use
+# Taleberry Terms of Use
 
-**Effective Date:** February 28, 2026
+**Effective Date:** October 25, 2026
 
-Welcome to Drift! These Terms of Use ("Terms") govern your access to and use of the Drift mobile application (the "App"), provided by Webomax Bilişim Teknolojiler Limited Şirketi ("we," "us," or "our").
+Welcome to Taleberry! These Terms of Use ("Terms") govern your use of the Taleberry mobile application (the "App"), provided by Webomax Bilişim Teknolojiler Limited Şirketi ("we," "us," or "our").
 
-By downloading, installing, or using Drift, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the App.
+By downloading or using Taleberry, you agree to these Terms and to our [Privacy Policy](https://webomax.github.io/taleberry-privacy-policy/). If you do not agree, please do not use the App.
 
-## 1. Description of Service
+## 1. What Taleberry Does
 
-Drift is a wellness application designed to assist users with winding down and preparing for sleep through audio journaling ("Mind Dump"), AI-generated bedtime stories, soundscapes, and visual breathing guides.
+Taleberry helps parents and guardians create personal children's stories. Each story is written, illustrated and narrated using artificial intelligence ("AI"), based on the choices you make. Stories, pictures and narration are saved on your device so you can enjoy them again anytime.
 
-**Important Medical Disclaimer:** Drift is not a medical device. The App is designed for general wellness and relaxation purposes only. It is not intended to diagnose, treat, cure, or prevent any disease, sleep disorder (such as chronic insomnia), or mental health condition. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition.
+Taleberry is for entertainment. It is not an educational, medical or therapeutic service.
 
-## 2. Eligibility
+## 2. Who Can Use Taleberry
 
-You must be at least 13 years old to use the App. By using Drift, you represent and warrant that you meet this age requirement and have the legal capacity to enter into a binding contract. If you are under the age of majority in your jurisdiction, you must have your parent or legal guardian's permission to use the App.
+Taleberry is made for adults. You must be at least 18 years old, or the age of majority where you live, to use the App and to purchase a subscription. Children may enjoy stories with a parent or guardian, but the App is not designed for children to use on their own.
 
-## 3. AI-Generated Content and User Inputs
+## 3. AI-Generated Stories
 
-Drift utilizes third-party artificial intelligence tools (such as OpenAI and Google Gemini) to generate personalized stories and organize text.
+* **Designed to be child-safe:** every story is written with instructions to keep it gentle, positive and suitable for young children.
+* **Please listen with your child:** AI can make mistakes and may sometimes produce something unexpected, inaccurate or not to your taste. We cannot guarantee that every story, picture or narration will be accurate or appropriate for your child. Please review stories and use your judgment as a parent.
+* **Uniqueness:** stories are created individually, but other users may receive similar stories, pictures or narration.
+* **Report a problem:** if a story is not suitable, delete it in the App and let us know at the email below so we can improve.
 
-* **Your Inputs:** You are solely responsible for the text prompts or audio inputs you provide to the App. You agree not to submit any content that is illegal, harmful, threatening, abusive, defamatory, or infringes on the intellectual property rights of others.
-* **AI Outputs:** Due to the nature of machine learning, AI-generated content (including text, audio, and images) may occasionally be unpredictable or inaccurate. We do not guarantee the accuracy, reliability, or appropriateness of any AI-generated content.
-* **Ownership:** You retain ownership of the original prompts you provide. We grant you a personal, non-exclusive, non-transferable license to consume the AI-generated stories and audio for your personal, non-commercial use within the App.
+## 4. Your Inputs
 
-## 4. Subscriptions and Payments
+You are responsible for the information you enter, including children's first names and story ideas. You agree to:
 
-Drift offers certain premium features (such as unlimited AI Bedtime Stories) through subscription plans ("Drift Premium").
+* Only enter the name of a child you are the parent or guardian of, or have permission to use.
+* Not enter sensitive information, such as full names, addresses, school names or health details.
+* Not enter anything illegal, hateful, violent, sexual, or that infringes the rights of others.
 
-* **Billing:** Subscriptions are managed and billed through your Apple ID or Google Play account, utilizing RevenueCat for subscription infrastructure.
-* **Auto-Renewal:** Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period.
-* **Cancellation:** You may manage your subscriptions and turn off auto-renewal by going to your device's Account Settings after purchase. Deleting the App does not automatically cancel your subscription.
-* **Refunds:** All charges are non-refundable to the fullest extent permitted by law. Any refund requests must be directed to the Apple App Store or Google Play Store, as we do not directly process your payments.
+When you create a story, your inputs are shared with our AI providers as described in our Privacy Policy.
 
-## 5. Privacy and Local Storage
+## 5. Your Stories
 
-Your privacy is important to us. Drift is designed to store your personal journal entries ("Mind Dump") locally on your device. For details on how we handle data processed by third-party AI and subscription services, please review our [Privacy Policy].
+You may keep, play and share the stories created for you with family and friends, for personal, non-commercial purposes. You may not sell, publish or commercially use stories, pictures or narration from the App without our written permission.
 
-## 6. Prohibited Conduct
+We do not claim ownership of the story ideas you provide. Because stories are created by AI, intellectual property rights in them may be limited depending on where you live.
 
-By using the App, you agree not to:
+## 6. Free Story and Taleberry Premium
 
-* Reverse engineer, decompile, disassemble, or attempt to derive the source code of the App.
-* Use the App to develop a competing product or service.
-* Circumvent any security features or subscription paywalls.
-* Use automated scripts, bots, or scrapers to extract data or AI-generated content from the App.
-* Use the App for any illegal or unauthorized purpose.
+* **Free story:** new users can create one free story.
+* **Premium:** a Taleberry Premium subscription lets you create up to 30 new stories each month, along with all Premium features. Unused stories don't carry over to the next month. We may adjust monthly limits to keep the service fair and sustainable, and we will tell you before a change affects your current subscription.
+* **Payment:** payment is charged to your Apple ID when you confirm your purchase.
+* **Auto-renewal:** your subscription renews automatically unless you turn off auto-renew at least 24 hours before the end of the current period. Your account is charged for renewal within 24 hours before the end of the current period, at the price shown when you subscribed unless you're told about a price change in advance.
+* **Free trials:** if we offer a free trial, any unused part of it ends when you purchase a subscription.
+* **Managing or canceling:** you can manage or cancel your subscription anytime in your App Store account settings. Deleting the App or your data does not cancel your subscription.
+* **Refunds:** payments are handled by Apple, so refund requests must be made to Apple under its policies. Your local consumer laws may give you additional rights.
 
-## 7. Intellectual Property
+## 7. Acceptable Use
 
-All rights, title, and interest in and to the App, including its original content, features, design, branding (including the name "Drift"), and underlying software, are and will remain the exclusive property of Webomax Bilişim Teknolojiler Limited Şirketi. The App is protected by copyright, trademark, and other laws of both Türkiye and foreign countries.
+You agree not to:
 
-## 8. Disclaimer of Warranties
+* Copy, modify, reverse engineer, or attempt to extract the source code of the App.
+* Get around subscription limits, usage limits or security features.
+* Use bots, scripts or automated tools to access the App or its services.
+* Use the App to create content for commercial use, or to build a competing product.
+* Use the App in any unlawful way, or in a way that could harm us, other users or our service providers.
 
-The App is provided on an "AS IS" and "AS AVAILABLE" basis. We make no warranties, expressed or implied, regarding the App's operation, uninterrupted availability, or the accuracy of the content it produces. We expressly disclaim all warranties of any kind, whether express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+We may limit or suspend access if we reasonably believe these Terms are being broken or the service is being misused.
 
-## 9. Limitation of Liability
+## 8. Our Intellectual Property
 
-To the maximum extent permitted by applicable law, Webomax Bilişim Teknolojiler Limited Şirketi shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the App; (ii) any conduct or content of any third party on the App; or (iii) unauthorized access, use, or alteration of your transmissions or content.
+The App, including its design, artwork, sounds, software and the Taleberry name and logo, belongs to Webomax Bilişim Teknolojiler Limited Şirketi and is protected by intellectual property laws. Subject to these Terms, we give you a personal, non-exclusive, non-transferable, revocable license to use the App on Apple devices you own or control.
 
-## 10. Governing Law
+## 9. Third-Party Services
 
-These Terms shall be governed and construed in accordance with the laws of the Republic of Türkiye, without regard to its conflict of law provisions. Any legal action or proceeding arising under these Terms will be brought exclusively in the courts located in Istanbul, Türkiye.
+Taleberry relies on third-party services, such as AI providers, Apple and RevenueCat, to work. We are not responsible for third-party services, and their own terms may apply.
 
-## 11. Changes to Terms
+## 10. Availability and Changes
 
-We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will try to provide at least 30 days' notice prior to any new terms taking effect. By continuing to access or use our App after those revisions become effective, you agree to be bound by the revised terms.
+We work to keep Taleberry running smoothly, but we cannot promise it will always be available or error-free. Stories need an internet connection to create, and we may change, pause or stop features at any time. Stories already saved on your device remain available to replay.
 
-## 12. Contact Us
+## 11. Disclaimer of Warranties
 
-If you have any questions about these Terms, please contact us at:
+To the fullest extent permitted by law, the App is provided "as is" and "as available," without warranties of any kind, whether express or implied, including warranties of merchantability, fitness for a particular purpose and non-infringement.
+
+## 12. Limitation of Liability
+
+To the fullest extent permitted by law, we will not be liable for any indirect, incidental, special, consequential or punitive damages, or for any loss of data, profits or goodwill, arising from your use of, or inability to use, the App. Our total liability for any claim relating to the App is limited to the amount you paid for the App in the 12 months before the claim.
+
+Nothing in these Terms limits any rights you have under consumer laws that cannot be waived.
+
+## 13. Apple App Store Terms
+
+If you downloaded Taleberry from the Apple App Store:
+
+* These Terms are between you and us, not Apple. Apple is not responsible for the App or its content.
+* Apple has no obligation to provide maintenance or support for the App.
+* If the App fails to conform to any applicable warranty, you may notify Apple, and Apple may refund the purchase price, if any. To the maximum extent permitted by law, Apple has no other warranty obligation regarding the App.
+* Apple is not responsible for any claims by you or any third party relating to the App, including product liability, legal or regulatory claims, or consumer protection claims.
+* Apple is not responsible for investigating, defending or settling any claim that the App infringes a third party's intellectual property rights.
+* You confirm that you are not located in a country subject to a U.S. government embargo or designated as a "terrorist supporting" country, and that you are not on any U.S. government list of prohibited or restricted parties.
+* You must comply with any applicable third-party terms when using the App.
+* Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them against you.
+
+Apple's [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies. If it conflicts with these Terms, these Terms control to the extent permitted.
+
+## 14. Ending These Terms
+
+You can stop using Taleberry at any time by deleting the App. We may suspend or end your access if you break these Terms. Sections that by their nature should survive will continue to apply.
+
+## 15. Governing Law
+
+These Terms are governed by the laws of the Republic of Türkiye, without regard to its conflict of law rules. Any dispute will be resolved by the courts of Istanbul, Türkiye, unless the consumer laws of your country require otherwise.
+
+## 16. Changes to These Terms
+
+We may update these Terms from time to time. We'll post the new version on this page and update the Effective Date above. If a change is significant, we'll try to give reasonable notice before it takes effect. If you keep using the App after changes take effect, you accept the updated Terms.
+
+## 17. Contact Us
+
+If you have questions about these Terms, contact us at:
 
 **Email:** info@webomax.net
 
 **Company:** Webomax Bilişim Teknolojiler Limited Şirketi
-
